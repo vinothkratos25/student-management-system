@@ -1,0 +1,12 @@
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\config\CorsConfig.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\controller\StudentController.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\dto\StudentRequest.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\dto\StudentResponse.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\entity\Student.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\exception\DuplicateResourceException.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\exception\ErrorResponse.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\exception\GlobalExceptionHandler.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\exception\ResourceNotFoundException.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\repository\StudentRepository.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\service\StudentService.java
+D:\projects\student-management-system\backend\src\main\java\com\example\studentmanagement\StudentManagementApplication.java
